@@ -1,4 +1,113 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "University of Cincinnati",
+    "abbreviation": "CINCY",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#000000",
+    "primaryBrandColor": "#E00122",
+    "buttonColor": "#E00122",
+    "buttonTextColor": "#FFFFFF",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/cincy.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/cincy.png",
+    "partner_id": "001Rd00000K36weIAB",
+    "programName": "UC Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.uc.edu/about/privacy.html",
+    "credits": "6 CINCY credits",
+    "startDate": "May 11",
+    "endDate": "August 9"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Cincinnati",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "2600 Clifton Ave, Cincinnati, OH 45220",
+    "abbreviation": "CINCY",
+    "phone": "(513) 506-0718",
+    "credits": "6 CINCY credits",
+    "programFee": "+ 2,450",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Cincinnati",
+    "trackTitle": "Digital Marketing Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 11",
+    "endDate": "August 9",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LPE 2048"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Cincinnati",
+    "trackTitle": "Web Development for Everyone Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 11",
+    "endDate": "August 9",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LPE 2048"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Cincinnati",
+    "trackTitle": "Data Analytics Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 11",
+    "endDate": "August 9",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LPE 2048"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Cincinnati",
+    "trackTitle": "Coding for Data Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 11",
+    "endDate": "August 9",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LPE 2048"
+  },
+  {
+    "item": "career-discovery",
+    "schoolname": "University of Cincinnati",
+    "trackTitle": "Career Rotation Track",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 11",
+    "endDate": "August 9",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "courseCode1": "LPE 2048"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UC Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(513) 506-0718",
+    "abbreviation": "CINCY"
+  },
+  {
+    "item": "begin",
+    "credits": "6 CINCY credits",
+    "abbreviation": "CINCY",
+    "phone": "(513) 506-0718"
+  }
+]
