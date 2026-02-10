@@ -13,6 +13,7 @@
     "partner_id": "001Rd00000K36weIAB",
     "programName": "UC Global Career Accelerator",
     "termsandConditionsPolicy": "https://www.uc.edu/about/privacy.html",
+    "registrationMessage": "Registration is now open.",
     "credits": "6 CINCY credits",
     "startDate": "May 11",
     "endDate": "August 9"
@@ -29,73 +30,88 @@
     "seasonYear": "Summer 2026",
     "term": "Summer",
     "season": "Summer",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "explore-tracks",
     "credits": "6 CINCY credits",
     "abbreviation": "CINCY",
-    "registrationMessage": "2026 Summer registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "digital-marketing",
     "schoolname": "University of Cincinnati",
     "trackTitle": "Digital Marketing Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 9",
     "credits": "6 CINCY credits",
     "abbreviation": "CINCY",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LPE 2048"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "LPE 2048",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
   },
   {
     "item": "coding-for-web",
     "schoolname": "University of Cincinnati",
     "trackTitle": "Web Development for Everyone Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 9",
     "credits": "6 CINCY credits",
     "abbreviation": "CINCY",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LPE 2048"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "LPE 2048",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
   },
   {
     "item": "data-analytics",
     "schoolname": "University of Cincinnati",
     "trackTitle": "Data Analytics Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 9",
     "credits": "6 CINCY credits",
     "abbreviation": "CINCY",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LPE 2048"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "LPE 2048",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
   },
   {
     "item": "coding-for-data",
     "schoolname": "University of Cincinnati",
     "trackTitle": "Coding for Data Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 9",
     "credits": "6 CINCY credits",
     "abbreviation": "CINCY",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LPE 2048"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "LPE 2048",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
   },
   {
     "item": "career-discovery",
     "schoolname": "University of Cincinnati",
     "trackTitle": "Career Rotation Track",
-    "seasonYear": "Summer 2026",
-    "startDate": "May 11",
-    "endDate": "August 9",
     "credits": "6 CINCY credits",
     "abbreviation": "CINCY",
-    "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LPE 2048"
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "LPE 2048",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 12"
   },
   {
     "item": "reserve-a-seat",
